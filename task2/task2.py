@@ -1,6 +1,3 @@
-from tkinter import Y
-
-
 file1 = str(input())
 file2 = str(input())
 coordinates_center = list()
